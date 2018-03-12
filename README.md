@@ -1,6 +1,6 @@
 # SGD_MF
 
-The SGD for Probabilistic Matrix Factorization(PMF) in Python
+The SGD for Matrix Factorization(PMF) in Python
 
  
 %
