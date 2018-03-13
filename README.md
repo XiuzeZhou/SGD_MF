@@ -30,7 +30,7 @@ How to make it work:
     
     1. Create a separate directory and download all these files into the same directory
     2. Download the following 2 files:
-        1) SGD_MF.py: Main file for training PMF
+        1) SGD_MF.py: Main file for training MF
         2) u.data: MovieLens 100k data set
     3. Run SGD_MF.py
 
